@@ -4,7 +4,7 @@
 
 ![aboutme](https://imgur.com/CvgYNnv.png)
 
-Hey there! 👋 I'm **Harshhaa Vardhan Reddy**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
+Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
 
 🔹 **Cloud & DevOps Enthusiast** – Architecting scalable, secure, and high-performance infrastructures using AWS, Azure, Kubernetes, Terraform, and more.  
 🔹 **Automation Lover** – Scripting, CI/CD pipelines, Infrastructure as Code (IaC), and making deployments seamless.  
@@ -41,33 +41,33 @@ Because **DevOps shouldn’t be locked behind paywalls or complexity**. I believ
 
 ![git](https://imgur.com/TCiZWsZ.png)
 
-## [![Find Me Online](https://img.shields.io/badge/Find_Me_Online-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy)  
+## [![Find Me Online](https://img.shields.io/badge/Find_Me_Online-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/haswanthkondamadugula)  
 
 ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-8A2BE2?style=for-the-badge&logo=Handshake&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshhaa03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/haswanthkondamadugula) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haswanthkondamadugula) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DevOpsTechTeam) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haswanthkondamadugula13@gmail.com)
 
 ---
 
 ![repos](https://imgur.com/TCiZWsZ.png)
 
-## [![Featured DevOps Repositories](https://img.shields.io/badge/Featured_Repos-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa?tab=repositories)
+## [![Featured DevOps Repositories](https://img.shields.io/badge/Featured_Repos-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haswanthkondamadugula?tab=repositories)
 
 🔹 **[DevOps Real-Time Projects (Beginner to Advanced)](https://github.com/NotHarshhaa/DevOps-Projects.git)**  
-🔹 **[Kubernetes Learning Path - From Zero to Pro](https://github.com/NotHarshhaa/kubernetes-learning-path.git)**  
+🔹 **[Kubernetes Learning Path - From Zero to Pro](https://github.com/Haswanthkondamadugula/kubernetes-learning-path)**  
 🔹 **[550+ DevOps Interview Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions)**  
-🔹 **[AWS DevOps Real-Time Deployment: Dev → Pre-Prod → Production](https://github.com/NotHarshhaa/AWS-DevOps-Real-Time-Deployment)**  
-🔹 **[End-to-End CI/CD Pipeline Deployment on AWS EKS](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions.git)**  
-🔹 **[DevOps Tool Installer & Uninstaller](https://github.com/NotHarshhaa/DevOps-Tool-Installer)**  
+🔹 **[AWS DevOps Real-Time Deployment: Dev → Pre-Prod → Production](https://github.com/Haswanthkondamadugula/AWS-DevOps_Real-Time_Deployment)**  
+🔹 **[End-to-End CI/CD Pipeline Deployment on AWS EKS](https://github.com/Haswanthkondamadugula/CI-CD_EKS-GitHub_Actions)**  
+🔹 **[DevOps Tool Installer & Uninstaller]()**  
 🔹 **[Azure DevOps: Zero to Hero Guide](https://github.com/NotHarshhaa/azure-all_in_one.git)**  
 🔹 **[Terraform: Deploy an EKS Cluster Like a Pro](https://github.com/NotHarshhaa/eks-cluster-terraform.git)**  
 🔹 **[DevOps Cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet)**  
 
-[![Explore all my Git repositories](https://img.shields.io/badge/Explore%20all%20my%20GitHub%20Repositories-24292E?style=for-the-badge&logo=github&logoColor=white)](https://repos.prodevopsguytech.com)
+[![Explore all my Git repositories](https://img.shields.io/badge/Explore%20all%20my%20GitHub%20Repositories-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haswanthkondamadugula?tab=repositories)
 
 ---
 
-## [![📝 My Recent Blog Posts & Articles](https://img.shields.io/badge/My_Recent_Blog_Posts_%26_Articles-FF5722?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa)
+## [![📝 My Recent Blog Posts & Articles](https://img.shields.io/badge/My_Recent_Blog_Posts_%26_Articles-FF5722?style=for-the-badge&logo=dev.to&logoColor=white)](https://hashnode.com/@Haswanth13)
 
 ![blog](https://imgur.com/fja3q42.png)
 
@@ -87,7 +87,7 @@ Because **DevOps shouldn’t be locked behind paywalls or complexity**. I believ
 
 ---
 
-## [![⚡ Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-FF6347?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)  
+## [![⚡ Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-FF6347?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/Haswanthkondamadugula)  
 
 ![tech](https://imgur.com/RknLHXQ.png)
 
@@ -99,7 +99,7 @@ Because **DevOps shouldn’t be locked behind paywalls or complexity**. I believ
 
 ---
 
-## [![📊 My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  
+## [![📊 My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haswanthkondamadugula)  
 
 | <a href="https://github.com/NotHarshhaa/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NotHarshhaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harshhaa's github stats" /></a> | <a href="https://github.com/NotHarshhaa/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarshhaa&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -112,7 +112,7 @@ Because **DevOps shouldn’t be locked behind paywalls or complexity**. I believ
 >
 > **If my projects and content help you, consider supporting me! Every bit of support helps in creating more awesome DevOps projects and guides! 💖**
 >
-> [![GitHub](https://img.shields.io/badge/GitHub-NotHarshhaa-181717?style=for-the-badge&logo=github)](https://github.com/NotHarshhaa)  [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-harshhaareddy-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/harshhaareddy)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-harshhaareddy-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/harshhaareddy)
+> [![GitHub](https://img.shields.io/badge/GitHub-NotHarshhaa-181717?style=for-the-badge&logo=github)](https://github.com/Haswanthkondamadugula)  [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-harshhaareddy-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/harshhaareddy)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-harshhaareddy-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/harshhaareddy)
 
 ---
 
