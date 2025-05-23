@@ -2,7 +2,8 @@
 
 ## [![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
 
-![aboutme](https://imgur.com/CvgYNnv.png)
+![image](https://github.com/user-attachments/assets/82106a62-bdcd-40f4-9714-b442f326ce32)
+
 
 Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
 
@@ -14,7 +15,8 @@ Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer**
 
 ---
 
-![learn](https://imgur.com/DY2IoaL.png)
+![image](https://github.com/user-attachments/assets/2935d77c-72a5-4851-a889-d9854af66d80)
+
 
 ## [![Useful Links](https://img.shields.io/badge/Useful_Links-0A0A0A?style=for-the-badge&logo=link&logoColor=white)](https://link.notharshhaa.site)
 
