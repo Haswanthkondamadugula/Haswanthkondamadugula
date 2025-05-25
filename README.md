@@ -20,7 +20,6 @@ Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer**
 
 
 
-![git](https://imgur.com/TCiZWsZ.png)
 
 ## [![Find Me Online](https://img.shields.io/badge/Find_Me_Online-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/haswanthkondamadugula)  
 
@@ -61,8 +60,8 @@ Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer**
 
 ---
 
-[![📌 Hashnode Blogs](https://img.shields.io/badge/Hashnode_Blogs-1ABC9C?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
-[![📌 Docker Concepts](https://img.shields.io/badge/Docker_Concepts-FF5733?style=for-the-badge&logo=docker&logoColor=white)](https://blog.prodevopsguytech.com/docker-basic-to-advanced-concepts-2024) [![📌 Kubernetes Concepts](https://img.shields.io/badge/Kubernetes_Concepts-8E44AD?style=for-the-badge&logo=kubernetes&logoColor=white)](https://blog.prodevopsguytech.com/kubernetes-advanced-concepts-and-best-practices) [![📌 Linux Best Practices](https://img.shields.io/badge/Linux_Best_Practices-3498DB?style=for-the-badge&logo=linux&logoColor=white)](https://blog.prodevopsguytech.com/100-linux-best-practices-by-prodevopsguy-tech)
+[![📌 Hashnode Blogs](https://img.shields.io/badge/Hashnode_Blogs-1ABC9C?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Haswanth13)  
+[![📌 Docker Concepts](https://img.shields.io/badge/Docker_Concepts-FF5733?style=for-the-badge&logo=docker&logoColor=white)](https://devopstech.hashnode.dev/docker-basic-to-advanced-concepts) [![📌 Kubernetes Concepts](https://img.shields.io/badge/Kubernetes_Concepts-8E44AD?style=for-the-badge&logo=kubernetes&logoColor=white)](https://devopstech.hashnode.dev/kubernetes-advanced-concepts-and-best-practices) [![📌 Linux Best Practices](https://img.shields.io/badge/Linux_Best_Practices-3498DB?style=for-the-badge&logo=linux&logoColor=white)](https://devopstech.hashnode.dev/100-linux-best-practices-by-prodevopsguy-tech)
 
 [![Explore all my DevOps blogs on Hashnode](https://img.shields.io/badge/Explore%20blogs%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)
 
