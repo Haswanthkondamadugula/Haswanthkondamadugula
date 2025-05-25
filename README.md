@@ -103,7 +103,7 @@ Because **DevOps shouldn’t be locked behind paywalls or complexity**. I believ
 
 ## [![📊 My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haswanthkondamadugula)  
 
-| <a href="https://github.com/NotHarshhaa/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NotHarshhaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harshhaa's github stats" /></a> | <a href="https://github.com/NotHarshhaa/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarshhaa&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Haswanthkondamadugula/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Haswanth&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haswanth's github stats" /></a> | <a href="https://github.com/Haswanthkondamadugula/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haswanth&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
