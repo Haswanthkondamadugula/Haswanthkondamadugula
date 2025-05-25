@@ -54,8 +54,8 @@ Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer**
 
 ### 📌 Stay updated with DevOps trends, best practices, and hands-on guides!
 
-[![dev.to Articles](https://img.shields.io/badge/dev.to%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa)  
-[![✍️ Scripting in DevOps](https://img.shields.io/badge/Scripting_in_DevOps-4CAF50?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/prodevopsguytech/scripting-in-devops-a-complete-guide-from-beginner-to-advanced-noa) [![✍️ Linux Filesystem Guide](https://img.shields.io/badge/Linux_Filesystem_Guide-FFA500?style=for-the-badge&logo=linux&logoColor=white)](https://dev.to/prodevopsguytech/understanding-the-linux-filesystem-an-in-depth-guide-for-devops-engineers-ona) [![✍️ 50+ DevOps Project Ideas](https://img.shields.io/badge/50%2B_DevOps_Project_Ideas-1976D2?style=for-the-badge&logo=github&logoColor=white)](https://dev.to/prodevopsguytech/50-devops-project-ideas-to-build-your-skills-from-beginner-to-advanced-3e07)
+[![dev.to Articles](https://img.shields.io/badge/dev.to%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/haswanth)  
+[![✍️ Scripting in DevOps](https://img.shields.io/badge/Scripting_in_DevOps-4CAF50?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/haswanth/scripting-in-devops-a-complete-guide-from-beginner-to-advanced-38dp) [![✍️ Linux Filesystem Guide](https://img.shields.io/badge/Linux_Filesystem_Guide-FFA500?style=for-the-badge&logo=linux&logoColor=white)](https://dev.to/haswanth/understanding-the-linux-filesystem-an-in-depth-guide-for-devops-engineers-59hc) [![✍️ 50+ DevOps Project Ideas](https://img.shields.io/badge/50%2B_DevOps_Project_Ideas-1976D2?style=for-the-badge&logo=github&logoColor=white)](https://dev.to/haswanth/50-devops-project-ideas-to-build-your-skills-from-beginner-to-advanced-bal)
 
 [![Check out my full blog archive on Dev.to](https://img.shields.io/badge/Read%20all%20blogs%20on%20Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa)  
 
