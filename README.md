@@ -78,18 +78,4 @@ Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer**
 | ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) | ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) |
 | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | ![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white) | ![SonarQube](https://img.shields.io/badge/SonarQube-%23000000.svg?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) | ![Packer](https://img.shields.io/badge/Packer-%23326ce5.svg?style=for-the-badge&logo=packer&logoColor=white) |
 
----
-
-## [![📊 My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haswanthkondamadugula)  
-
-| <a href="https://github.com/Haswanthkondamadugula/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Haswanth&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haswanth's github stats" /></a> | <a href="https://github.com/Haswanthkondamadugula/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haswanth&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
----
-
-## [![Support My Work](https://img.shields.io/badge/Support_My_Work-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/harshhaareddy)
-
-> [!IMPORTANT]
->
-> **If my projects and content help you, consider supporting me! Every bit of support helps in creating more awesome DevOps projects and guides! 💖**
 
