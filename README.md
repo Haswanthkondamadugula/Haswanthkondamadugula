@@ -56,14 +56,14 @@ Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer**
 [![dev.to Articles](https://img.shields.io/badge/dev.to%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/haswanth)  
 [![✍️ Scripting in DevOps](https://img.shields.io/badge/Scripting_in_DevOps-4CAF50?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/haswanth/scripting-in-devops-a-complete-guide-from-beginner-to-advanced-38dp) [![✍️ Linux Filesystem Guide](https://img.shields.io/badge/Linux_Filesystem_Guide-FFA500?style=for-the-badge&logo=linux&logoColor=white)](https://dev.to/haswanth/understanding-the-linux-filesystem-an-in-depth-guide-for-devops-engineers-59hc) [![✍️ 50+ DevOps Project Ideas](https://img.shields.io/badge/50%2B_DevOps_Project_Ideas-1976D2?style=for-the-badge&logo=github&logoColor=white)](https://dev.to/haswanth/50-devops-project-ideas-to-build-your-skills-from-beginner-to-advanced-bal)
 
-[![Check out my full blog archive on Dev.to](https://img.shields.io/badge/Read%20all%20blogs%20on%20Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa)  
+[![Check out my full blog archive on Dev.to](https://img.shields.io/badge/Read%20all%20blogs%20on%20Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/haswanth)  
 
 ---
 
 [![📌 Hashnode Blogs](https://img.shields.io/badge/Hashnode_Blogs-1ABC9C?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Haswanth13)  
 [![📌 Docker Concepts](https://img.shields.io/badge/Docker_Concepts-FF5733?style=for-the-badge&logo=docker&logoColor=white)](https://devopstech.hashnode.dev/docker-basic-to-advanced-concepts) [![📌 Kubernetes Concepts](https://img.shields.io/badge/Kubernetes_Concepts-8E44AD?style=for-the-badge&logo=kubernetes&logoColor=white)](https://devopstech.hashnode.dev/kubernetes-advanced-concepts-and-best-practices) [![📌 Linux Best Practices](https://img.shields.io/badge/Linux_Best_Practices-3498DB?style=for-the-badge&logo=linux&logoColor=white)](https://devopstech.hashnode.dev/100-linux-best-practices-by-prodevopsguy-tech)
 
-[![Explore all my DevOps blogs on Hashnode](https://img.shields.io/badge/Explore%20blogs%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)
+[![Explore all my DevOps blogs on Hashnode](https://img.shields.io/badge/Explore%20blogs%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/681314d165ee72b01f1457ef/dashboard/posts)
 
 ---
 
