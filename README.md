@@ -18,28 +18,7 @@ Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer**
 ![image](https://github.com/user-attachments/assets/2935d77c-72a5-4851-a889-d9854af66d80)
 
 
-## [![Useful Links](https://img.shields.io/badge/Useful_Links-0A0A0A?style=for-the-badge&logo=link&logoColor=white)](https://link.notharshhaa.site)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-notharshhaa.site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://notharshhaa.site) [![Resume](https://img.shields.io/badge/Resume-cv.notharshhaa.site-007ACC?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://cv.notharshhaa.site) [![Blog](https://img.shields.io/badge/Blog-blog.notharshhaa.site-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.notharshhaa.site) [![Links](https://img.shields.io/badge/All%20Links-link.notharshhaa.site-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://link.notharshhaa.site)
-
----
-
-[![image-2.png](https://i.postimg.cc/jqBZ9NLw/image-2.png)](https://postimg.cc/6TLr48Vt)
-
-## 🌐 **Empowering DevOps & Cloud Learners — One Resource at a Time**
-
-I’ve created an ecosystem for DevOps enthusiasts, job-seekers, and practitioners — designed to make **learning practical and accessible**:
-
-🔹 **[💻 Real-Time Projects Hub](https://projects.prodevopsguytech.com)** — Work on real-world DevOps/Cloud projects.  
-🔹 **[📚 Ultimate Docs Portal](https://docs.prodevopsguytech.com)** — 900+ curated learning materials.  
-🔹 **[📦 Repositories Central](https://repos.prodevopsguytech.com)** — Scripts, infra, prep content, and more.  
-🔹 **[🧭 Jobs Portal](https://jobs.prodevopsguytech.com)** — Find your next opportunity in DevOps or Cloud.  
-🔹 **[📰 DevOps Blog](https://blog.prodevopsguytech.com)** // **[☁️ Cloud Blog](https://cloud.prodevopsguytech.com)** — Learn from deep dives and practical guides.
-
-🎯 **Why this exists:**  
-Because **DevOps shouldn’t be locked behind paywalls or complexity**. I believe in **learning by building and sharing** — and this is my contribution to the community.
-
----
 
 ![git](https://imgur.com/TCiZWsZ.png)
 
@@ -113,9 +92,4 @@ Because **DevOps shouldn’t be locked behind paywalls or complexity**. I believ
 > [!IMPORTANT]
 >
 > **If my projects and content help you, consider supporting me! Every bit of support helps in creating more awesome DevOps projects and guides! 💖**
->
-> [![GitHub](https://img.shields.io/badge/GitHub-NotHarshhaa-181717?style=for-the-badge&logo=github)](https://github.com/Haswanthkondamadugula)  [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-harshhaareddy-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/harshhaareddy)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-harshhaareddy-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/harshhaareddy)
 
----
-
-![end](https://imgur.com/meVJnmd.png)
