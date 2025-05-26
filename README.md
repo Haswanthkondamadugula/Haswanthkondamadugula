@@ -29,7 +29,8 @@ Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer**
 
 ---
 
-![repos](https://imgur.com/TCiZWsZ.png)
+![image](https://github.com/user-attachments/assets/b6774679-7f21-43a6-95da-39bee6e0cb2a)
+
 
 ## [![Featured DevOps Repositories](https://img.shields.io/badge/Featured_Repos-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haswanthkondamadugula?tab=repositories)
 
@@ -49,7 +50,7 @@ Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer**
 
 ## [![📝 My Recent Blog Posts & Articles](https://img.shields.io/badge/My_Recent_Blog_Posts_%26_Articles-FF5722?style=for-the-badge&logo=dev.to&logoColor=white)](https://hashnode.com/@Haswanth13)
 
-![blog](https://imgur.com/fja3q42.png)
+![image](https://github.com/user-attachments/assets/edd96544-7485-427a-9b38-b130f9765cbf)
 
 ### 📌 Stay updated with DevOps trends, best practices, and hands-on guides!
 
