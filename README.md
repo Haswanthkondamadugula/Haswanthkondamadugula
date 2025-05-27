@@ -36,13 +36,13 @@ Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer**
 
 🔹 **[DevOps Real-Time Projects (Beginner to Advanced)](https://github.com/NotHarshhaa/DevOps-Projects.git)**  
 🔹 **[Kubernetes Learning Path - From Zero to Pro](https://github.com/Haswanthkondamadugula/kubernetes-learning-path)**  
-🔹 **[550+ DevOps Interview Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions)**  
+🔹 **[550+ DevOps Interview Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions)**  
 🔹 **[AWS DevOps Real-Time Deployment: Dev → Pre-Prod → Production](https://github.com/Haswanthkondamadugula/AWS-DevOps_Real-Time_Deployment)**  
 🔹 **[End-to-End CI/CD Pipeline Deployment on AWS EKS](https://github.com/Haswanthkondamadugula/CI-CD_EKS-GitHub_Actions)**  
 🔹 **[DevOps Tool Installer & Uninstaller](https://github.com/Haswanthkondamadugula/DevOps-Tool-Installer)**  
 🔹 **[Azure DevOps: Zero to Hero Guide](https://github.com/Haswanthkondamadugula/Azure-All_In_One)**  
 🔹 **[Terraform: Deploy an EKS Cluster Like a Pro](https://github.com/Haswanthkondamadugula/Eks-Cluster-Terraform)**  
-🔹 **[DevOps Cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet)**  
+🔹 **[DevOps Cheatsheet](https://github.com/Haswanthkondamadugula/Devops-Cheatsheet)**  
 
 [![Explore all my Git repositories](https://img.shields.io/badge/Explore%20all%20my%20GitHub%20Repositories-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haswanthkondamadugula?tab=repositories)
 
