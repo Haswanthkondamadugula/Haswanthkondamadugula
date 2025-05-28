@@ -34,7 +34,7 @@ Hey there! 👋 I'm **Haswanth Kondamadugula**, a passionate **DevOps Engineer**
 
 ## [![Featured DevOps Repositories](https://img.shields.io/badge/Featured_Repos-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haswanthkondamadugula?tab=repositories)
 
-🔹 **[DevOps Real-Time Projects (Beginner to Advanced)](https://github.com/NotHarshhaa/DevOps-Projects.git)**  
+🔹 **[DevOps Real-Time Projects (Beginner to Advanced)](https://github.com/Haswanthkondamadugula/DevOps-Projects)**  
 🔹 **[Kubernetes Learning Path - From Zero to Pro](https://github.com/Haswanthkondamadugula/kubernetes-learning-path)**  
 🔹 **[550+ DevOps Interview Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions)**  
 🔹 **[AWS DevOps Real-Time Deployment: Dev → Pre-Prod → Production](https://github.com/Haswanthkondamadugula/AWS-DevOps_Real-Time_Deployment)**  
